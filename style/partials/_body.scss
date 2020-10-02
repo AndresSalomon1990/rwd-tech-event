@@ -1,0 +1,165 @@
+/* ------------------------------------------------------------
+1. BODY
+2. FORM
+------------------------------------------------------------ */
+
+/* ------------------------------------------------------------
+1. BODY
+------------------------------------------------------------ */
+
+/* Body */
+body {
+    @extend %global-body-style;
+}
+
+/* Header title/image */
+header {
+    padding: $global-padding;
+    height: 250px;
+    text-align: center;
+    background: $white-color;
+    background-image: url("../res/cover.jpg");
+    @extend %adjusted-img;
+    
+    border-radius: $global-border-radius;
+
+    h1 {
+        color: $white-color;
+        font-size: 50px;
+        position: relative;
+        top: 40%;
+    }
+}
+
+/* Nav bar */
+nav {
+    overflow: hidden;
+    background-color: $dark-color;
+    margin-top: $global-margin;
+    border-radius: $global-border-radius;
+
+    /* Nav links */
+    a {
+        float: left;
+        display: block;
+        color: $white-color;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        width: 25%;
+
+        /* Nav links on hover */
+        &:hover {
+            background-color: $white-color;
+            color: black;
+        }
+    }
+}
+
+main {
+    h2, h3, p {
+        color: $dark-color;
+    }
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.main-col-left {   
+    float: left;
+    width: 60%;
+}
+
+/* Right column */
+.main-col-right {
+    float: left;
+    width: 40%;
+    background-color: $body-color;
+    padding-left: $global-padding;
+}
+
+/* Article image */
+.article-img {
+    background-color: $gray-color;
+    width: 100%;
+    height: 200px;
+    padding: $global-padding;
+    margin-top: $global-margin;
+    margin-bottom: $global-margin;
+    border-radius: $global-border-radius;
+    background-image: url("../res/blue-phone-camera.jpg");
+    @extend %adjusted-img;
+}
+  
+/* Card effect */
+.card {
+    @extend %card-style;
+}
+  
+/* Clear floats after the columns */
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Footer */
+footer {
+    padding: $global-padding;
+    text-align: center;
+    background: $white-color;
+    margin-top: $global-margin;
+    border-radius: $global-border-radius;
+    color: $dark-color;
+}
+
+/* ------------------------------------------------------------
+2. FORM
+------------------------------------------------------------ */
+
+input[type=text], input[type=email], input[type=tel] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: $global-border-radius;
+}
+  
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    color: $white-color;
+}
+
+.form-container {
+    border-radius: $global-border-radius;
+    background-color: $main-light-color;
+    padding: $global-padding;
+    margin-top: $global-margin;
+  }
+  
+.form-col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+  
+.form-col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+input[type=submit] {
+    background-color: $white-color;
+    color: $dark-color;
+    padding: 12px 20px;
+    border: none;
+    border-radius: $global-border-radius;
+    cursor: pointer;
+    float: right;
+    margin-top: $global-margin;
+
+    &:hover {
+        background-color: $dark-color;
+        color: $white-color;
+    }
+}

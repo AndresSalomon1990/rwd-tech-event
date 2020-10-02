@@ -1,0 +1,49 @@
+.oradores-col-40 {
+    float: left;
+    width: 40%;
+    text-align: center;
+}
+
+.oradores-col-60 {
+    float: left;
+    width: 60%;
+    padding-left: $global-padding;
+}
+
+img.orador-img {
+    background-color: $gray-color;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-top: $global-margin;
+}
+
+aside.orador-info {
+    float: left;
+    padding: $global-padding;
+    margin: $global-margin;
+    width: 40%;
+}
+
+aside a {
+    text-decoration: none;
+
+    img.icon-social {
+        margin-top: $global-margin;
+        display: inline-block;
+        
+        &:hover {
+            cursor: pointer;
+        }
+    
+    }
+}
+
+
+
+aside.talk-info {
+    float: right;
+    padding: $global-padding;
+    margin: $global-margin;
+    width: 50%;
+}
