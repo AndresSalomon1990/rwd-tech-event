@@ -1,24 +1,24 @@
 /* Utilities */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_placeholders\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_placeholders\.scss}line{font-family:\000031}}
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_placeholders\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_placeholders\.scss}line{font-family:\000037}}
 .card {
   background-color: #e1e2e6;
   padding: 15px;
   margin-top: 10px;
   border-radius: 4px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_placeholders\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_placeholders\.scss}line{font-family:\0000314}}
 header, .article-img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_placeholders\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_placeholders\.scss}line{font-family:\0000320}}
 body {
   font-family: 'Patua One', 'Arial', cursive, serif;
   padding: 10px;
@@ -34,7 +34,7 @@ body {
 ------------------------------------------------------------ */
 /* Body */
 /* Header title/image */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000316}}
 header {
   padding: 15px;
   height: 250px;
@@ -42,7 +42,7 @@ header {
   background: #e1e2e6;
   background-image: url("../res/cover.jpg");
   border-radius: 4px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000326}}
   header h1 {
     color: #e1e2e6;
     font-size: 50px;
@@ -50,14 +50,14 @@ header {
     top: 40%; }
 
 /* Nav bar */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000335}}
 nav {
   overflow: hidden;
   background-color: #080f44;
   margin-top: 10px;
   border-radius: 4px;
   /* Nav links */ }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000342}}
   nav a {
     float: left;
     display: block;
@@ -67,24 +67,24 @@ nav {
     text-decoration: none;
     width: 25%;
     /* Nav links on hover */ }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000352}}
     nav a:hover {
       background-color: #e1e2e6;
       color: black; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000360}}
 main h2, main h3, main p {
   color: #080f44; }
 
 /* Create two unequal columns that floats next to each other */
 /* Left column */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000367}}
 .main-col-left {
   float: left;
   width: 60%; }
 
 /* Right column */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000373}}
 .main-col-right {
   float: left;
   width: 40%;
@@ -92,7 +92,7 @@ main h2, main h3, main p {
   padding-left: 15px; }
 
 /* Article image */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000381}}
 .article-img {
   background-color: #585c79;
   width: 100%;
@@ -105,14 +105,14 @@ main h2, main h3, main p {
 
 /* Card effect */
 /* Clear floats after the columns */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\0000399}}
 .row::after {
   content: "";
   display: table;
   clear: both; }
 
 /* Footer */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003106}}
 footer {
   padding: 15px;
   text-align: center;
@@ -124,39 +124,39 @@ footer {
 /* ------------------------------------------------------------
 2. FORM
 ------------------------------------------------------------ */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003119}}
 input[type=text], input[type=email], input[type=tel] {
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 4px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003126}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003126}}
 label {
   padding: 12px 12px 12px 0;
   display: inline-block;
   color: #e1e2e6; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003132}}
 .form-container {
   border-radius: 4px;
   background-color: #4452d1;
   padding: 15px;
   margin-top: 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003139}}
 .form-col-25 {
   float: left;
   width: 25%;
   margin-top: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003145}}
 .form-col-75 {
   float: left;
   width: 75%;
   margin-top: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003151}}
 input[type=submit] {
   background-color: #e1e2e6;
   color: #080f44;
@@ -166,13 +166,13 @@ input[type=submit] {
   cursor: pointer;
   float: right;
   margin-top: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_body\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_body\.scss}line{font-family:\00003161}}
   input[type=submit]:hover {
     background-color: #080f44;
     color: #e1e2e6; }
 
 /* Map */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_style-como-llegar\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_style-como-llegar\.scss}line{font-family:\000032}}
 .map {
   background-color: #585c79;
   width: 100%;
@@ -182,108 +182,98 @@ input[type=submit] {
   margin-bottom: 10px;
   border-radius: 4px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_style-sponsors\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_style-sponsors\.scss}line{font-family:\000031}}
 .sponsor-col-33 {
   float: left;
   width: 33.33%;
   margin-top: 5px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_style-sponsors\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_style-sponsors\.scss}line{font-family:\000037}}
 .sponsor-img {
   width: 70%;
   height: 100px;
   margin-top: 10px;
   margin-bottom: 10px;
   border-radius: 4px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_style-sponsors\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_style-sponsors\.scss}line{font-family:\0000315}}
   .sponsor-img.platinum {
     background-color: #5eac92; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_style-sponsors\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_style-sponsors\.scss}line{font-family:\0000319}}
   .sponsor-img.gold {
     background-color: #daa71c; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_style-sponsors\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_style-sponsors\.scss}line{font-family:\0000323}}
   .sponsor-img.silver {
     background-color: #5f5f5f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\000031}}
 .oradores-col-40 {
   float: left;
   width: 40%;
   text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\000036}}
+  .oradores-col-40 img.orador-img {
+    background-color: #585c79;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000315}}
 .oradores-col-60 {
   float: left;
   width: 60%;
   padding-left: 15px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\0000313}}
-img.orador-img {
-  background-color: #585c79;
-  border-radius: 100%;
-  width: 200px;
-  height: 200px;
-  margin-top: 10px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\0000321}}
-aside.orador-info {
-  float: left;
-  padding: 15px;
-  margin: 10px;
-  width: 40%; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\0000328}}
-aside a {
-  text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\0000331}}
-  aside a img.icon-social {
-    margin-top: 10px;
-    display: inline-block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\0000335}}
-    aside a img.icon-social:hover {
-      cursor: pointer; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_oradores\.scss}line{font-family:\0000344}}
-aside.talk-info {
-  float: right;
-  padding: 15px;
-  margin: 10px;
-  width: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000320}}
+  .oradores-col-60 span.orador-info {
+    margin-top: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000323}}
+    .oradores-col-60 span.orador-info a {
+      margin-top: 10px;
+      text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000327}}
+      .oradores-col-60 span.orador-info a img.icon-social {
+        margin-top: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000330}}
+        .oradores-col-60 span.orador-info a img.icon-social:hover {
+          cursor: pointer;
+          background-color: #585c79;
+          border-radius: 100%; }
 
 /* Media queries */
 /* RWD - when the screen is less than 900px wide, make the two columns stack on top of each other instead of next to each other */
 @media only screen and (max-width: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_media-queries\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_media-queries\.scss}line{font-family:\000033}}
   .main-col-left, .main-col-right {
+    float: none;
     width: 100%;
     padding: 0; } }
 /* RWD - when the screen is less than 600px wide, make the navigation links stack on top of each other instead of next to each other */
 @media only screen and (max-width: 600px) {
   /* Nav items */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_media-queries\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_media-queries\.scss}line{font-family:\0000313}}
   nav a {
     float: none;
     width: 100%; }
 
   /* Form cols */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_media-queries\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_media-queries\.scss}line{font-family:\0000319}}
   .form-col-25, .form-col-75, input[type=submit] {
     float: none;
     width: 100%; }
 
   /* Sponsors cols */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_media-queries\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_media-queries\.scss}line{font-family:\0000325}}
   .sponsor-col-33 {
     float: none;
     width: 100%; }
 
   /* Sponsors img */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_media-queries\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_media-queries\.scss}line{font-family:\0000331}}
   .sponsor-img {
     width: 100%; }
 
   /* Oradores cols */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/Acamica\%20-\%20DWFS\/Bloque\%201\/Encuentro\%207\%20-\%20Koala\%20y\%20SASS\/encuentro_7\/style\/partials\/_media-queries\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_media-queries\.scss}line{font-family:\0000336}}
   .oradores-col-40, .oradores-col-60 {
     float: none;
     width: 100%; } }
