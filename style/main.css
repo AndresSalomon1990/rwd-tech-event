@@ -224,17 +224,17 @@ input[type=submit] {
   width: 60%;
   padding-left: 15px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000320}}
-  .oradores-col-60 span.orador-info {
+  .oradores-col-60 div.orador-info {
     margin-top: 10px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000323}}
-    .oradores-col-60 span.orador-info a {
+    .oradores-col-60 div.orador-info a {
       margin-top: 10px;
       text-decoration: none; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000327}}
-      .oradores-col-60 span.orador-info a img.icon-social {
+      .oradores-col-60 div.orador-info a img.icon-social {
         margin-top: 10px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/andre\/OneDrive\/Documentos\/Dev\/repos\/rwd-tech-event\/style\/partials\/_oradores\.scss}line{font-family:\0000330}}
-        .oradores-col-60 span.orador-info a img.icon-social:hover {
+        .oradores-col-60 div.orador-info a img.icon-social:hover {
           cursor: pointer;
           background-color: #585c79;
           border-radius: 100%; }
